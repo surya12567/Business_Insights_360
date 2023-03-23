@@ -62,6 +62,7 @@ Dimension table : It will have the static data like details of customer and prod
 Fact table : It will have the data about the transactions
 
 gdb041:
+
 •  dim_customer
 
     •  27 distinct markets (ex India, USA, spain)
