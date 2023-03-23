@@ -13,7 +13,11 @@ Senior executives of this company have decided to invest in a data analytics pro
 ## Tool Used
 
 • SQL
+
 • POWER BI
+
 • EXCEL
+
 • DAX Language
+
 • DAX Studio
