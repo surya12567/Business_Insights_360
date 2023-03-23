@@ -176,7 +176,8 @@ gdb041:
 
 • In this Project We used Star Schema Method and Snow Flake Method
 
-![Screenshot (26)](https://user-images.githubusercontent.com/123219907/227214325-867d5658-30dc-46d6-a0af-ff51dff10d1c.png)
+![Data Modelling](https://user-images.githubusercontent.com/123219907/227214523-be1eba8f-924a-435b-9c01-8c759be077fc.png)
+
 
 
 
