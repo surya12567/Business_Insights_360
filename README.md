@@ -186,7 +186,7 @@ gdb041:
  • In this project we use design principle for designing effective dashbord https://www.sqlbi.com/
  
  
- 
+ ## Overall Report
 
 
 https://user-images.githubusercontent.com/123219907/227229303-fa708fd7-11ea-4e14-bc1f-9a7e88992e32.mp4
