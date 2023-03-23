@@ -55,7 +55,9 @@ Senior executives of this company have decided to invest in a data analytics pro
 
 ## Dataset Understanding
 
-Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
+Understanding what data is available will be more helpful while doing analysis. before 
+
+jumping on to the analysis get good understanding of what are data available.
 
 Dimension table : It will have the static data like details of customer and products
 
@@ -133,11 +135,15 @@ gdb041:
          
          • All the date of the month will be replaced by the start date of the month
          
-        • It will have all the column names and in the end it will have the forecast quantity need of the customer
+        • It will have all the column names and in the end it will have the forecast quantity 
+        
+        need of the customer
         
    • fact_sales_monthly
    
-        • This table is more or less is same as fact_forecase_monthly table, but the last column has the value of sold quantity instead of forecast value.
+        • This table is more or less is same as fact_forecase_monthly table, but the last column 
+        
+        has the value of sold quantity instead of forecast value.
         
 • gdb056
 
