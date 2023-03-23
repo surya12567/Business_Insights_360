@@ -9,3 +9,11 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 AtliQ Hardware is a consumer goods electronics company that operates in various countries and has experienced significant growth. However, despite their growth, the company still relies on using Excel files for data analytics. Excel files are not effective in generating insights and are hard to consume, making it challenging for the company to identify trends and opportunities in their data
 
 Senior executives of this company have decided to invest in a data analytics project and have assigned a team for this work.
+
+## Tool Used
+
+•SQL
+•POWER BI
+•EXCEL
+•DAX Language
+•DAX Studio
