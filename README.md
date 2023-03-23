@@ -175,3 +175,9 @@ gdb041:
 • A relationship defines how data sources are connected with each other and you can create interesting data visualizations on multiple data sources.
 
 • In this Project We used Star Schema Method and Snow Flake Method
+
+![Screenshot (26)](https://user-images.githubusercontent.com/123219907/227214325-867d5658-30dc-46d6-a0af-ff51dff10d1c.png)
+
+
+
+
