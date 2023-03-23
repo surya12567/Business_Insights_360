@@ -168,4 +168,9 @@ gdb041:
         • Post invoice deductions and other deductions details
 
 
+## Data Modelling
+
+Data Modeling is one of the features used to connect multiple data sources in BI tool using a relationship. 
+
+A relationship defines how data sources are connected with each other and you can create interesting data visualizations on multiple data sources.
 
