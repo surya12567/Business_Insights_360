@@ -179,6 +179,20 @@ gdb041:
 ![Data Modelling](https://user-images.githubusercontent.com/123219907/227214523-be1eba8f-924a-435b-9c01-8c759be077fc.png)
 
 
+## Dashboard Designing
+
+ • Dashboard design should be tailored to best meet the needs of the end user and help them reach their goals.
+ 
+ • In this project we use design principle for designing effective dashbord https://www.sqlbi.com/
+ 
+ 
+ 
+
+
+https://user-images.githubusercontent.com/123219907/227229303-fa708fd7-11ea-4e14-bc1f-9a7e88992e32.mp4
+
+
+
 
 
 
