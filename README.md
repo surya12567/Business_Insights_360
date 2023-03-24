@@ -198,6 +198,13 @@ https://user-images.githubusercontent.com/123219907/227229303-fa708fd7-11ea-4e14
 ## Sales View
 ![Sales View](https://user-images.githubusercontent.com/123219907/227451352-30c4fda0-2b85-4012-82ce-07a225e1fb99.gif)
 
+## Marketing View
+![Marketing View](https://user-images.githubusercontent.com/123219907/227452033-5195c23b-51a7-417b-bf14-c67cb707350d.gif)
 
+## Supply Chain View
+![Supply chain view](https://user-images.githubusercontent.com/123219907/227452356-b999493e-61fa-49bf-b788-514182011cc0.gif)
+
+## Excecutive View
+![Excecutive 1](https://user-images.githubusercontent.com/123219907/227455142-4d0939d1-3f86-4909-8dc4-8d6f84dba51b.gif)
 
 
