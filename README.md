@@ -192,6 +192,9 @@ gdb041:
 https://user-images.githubusercontent.com/123219907/227229303-fa708fd7-11ea-4e14-bc1f-9a7e88992e32.mp4
 
 
+## Finance View
+![Finance View](https://user-images.githubusercontent.com/123219907/227449925-fb02d44f-e946-43d8-9446-1e8f29f4ae9d.gif)
+
 
 
 
