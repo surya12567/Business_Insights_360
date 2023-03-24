@@ -195,6 +195,8 @@ https://user-images.githubusercontent.com/123219907/227229303-fa708fd7-11ea-4e14
 ## Finance View
 ![Finance View](https://user-images.githubusercontent.com/123219907/227449925-fb02d44f-e946-43d8-9446-1e8f29f4ae9d.gif)
 
+## Sales View
+![Sales View](https://user-images.githubusercontent.com/123219907/227451352-30c4fda0-2b85-4012-82ce-07a225e1fb99.gif)
 
 
 
